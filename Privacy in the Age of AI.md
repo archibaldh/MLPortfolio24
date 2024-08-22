@@ -1,0 +1,20 @@
+# Privacy in the Age of AI: Navigating the Ethical Dimensions of Machine
+Learning
+
+If you’ve been around for the past couple of years you will have at least heard of what AI is. You’d be hard-pressed to find someone who hasn’t tinkered with ChatGPT, and it’s fairly likely that you might have played around with AI image generations to create images you could previously only imagine. AI tools are a lot of fun, and personally give me a lot of hope about the future of technology, and where it will go. That said, you’ve also probably heard there are some ethical dilemmas that come with this technology; and that is absolutely correct. This report will discuss the dark side of AI, and how it can be used for malicious purposes.
+
+One of the first things that come to your mind when you hear about ethical issues with AI is likely the staggering increase in students using programs like ChatGPT to cheat on assignments. When you tell a year 7 who hates English that there is a magical chatbot out there that can write whatever they want it to say, they quickly figure out that they can use this to write essays for them. While this is not plagiarism, as it’s not someone else’s work, there is still a very obvious issue; They don’t learn anything. Imagine a future where there are heart surgeons who made it through medical school by writing all of their papers with ChatGPT. Would you trust them to perform on you? I’d hope your answer is no. This lack of education that students are receiving by relying on AI Language Models is dangerous and greatly concerning. A huge ethical issue we face today, created by the great accessibility of AI .
+
+Students cheating on assignments is only the tip of the iceberg however. AI Technologies such as deepfakes and image generation are being used by scammers to make their claims seem legitimate, taking advantage of vulnerable people who cannot discern the difference between AI and real life. There are countless videos of figures such as Mr. Beast and Elon Musk claiming to be taking part in a free giveaway. The actual reality of these videos is that they are deepfakes of these figures, and the instructions they give tend to lead to scams where people have lost thousands of dollars. As deepfake technology continues to get better, it will become harder to tell the difference between deepfakes, and legitimate videos. This is a frightening thought, and an ethical dilemma that we need to sort out with AI before it becomes too widespread.
+
+Deepfake technology can also be used to spread misinformation and push agendas. It doesn’t take much googling to find countless examples of news anchors discussing harmful conspiracy theories, or to find celebrities promoting drop-shipped products on platforms like TikTok and Instagram. These deepfakes often go viral due to their bizarre nature, and while many find humor in the fact that they can tell the difference, this also promotes these videos in those platform’s algorithms, making those who could not tell the difference see them.
+
+In conclusion, while Artificial Intelligence offers immense potential for future innovation and progress, they also present ethical challenges that we must address. The misuse of AI in education, and the potential to mimic a trusted person to promote scams and misinformation is incredibly dangerous and can easily be used maliciously. As we continue to develop and integrate AI into our lives, it is important that we simultaneously work on creating ethical guidelines and limitation, improved detection methods for AI-generated content, and teach students how to use AI while learning, rather than substituting learning with AI.
+
+## Bibliography:
+
+[The People Onscreen Are Fake. The Disinformation Is Real. (Published 2023)](https://www.nytimes.com/2023/02/07/technology/artificial-intelligence-training-deepfake.html)
+
+[MrBeast and BBC stars used in deepfake scam videos](https://www.bbc.com/news/technology-66993651)
+
+[23 of the best deepfake examples that terrified and amused the internet](https://www.creativebloq.com/features/deepfake-examples)
