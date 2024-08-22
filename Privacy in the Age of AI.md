@@ -1,5 +1,4 @@
 # Privacy in the Age of AI: Navigating the Ethical Dimensions of Machine
-Learning
 
 If you’ve been around for the past couple of years you will have at least heard of what AI is. You’d be hard-pressed to find someone who hasn’t tinkered with ChatGPT, and it’s fairly likely that you might have played around with AI image generations to create images you could previously only imagine. AI tools are a lot of fun, and personally give me a lot of hope about the future of technology, and where it will go. That said, you’ve also probably heard there are some ethical dilemmas that come with this technology; and that is absolutely correct. This report will discuss the dark side of AI, and how it can be used for malicious purposes.
 
